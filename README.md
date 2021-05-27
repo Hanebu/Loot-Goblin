@@ -8,6 +8,8 @@ Make sure that they are completly visible.
 However, they don't have to be in the black area of the client.
    ![image](https://user-images.githubusercontent.com/52481026/119891287-1453a800-bf39-11eb-845a-2a7e92ee3461.png)
 
+
+
 ## Buttons ##
    ![image](https://user-images.githubusercontent.com/52481026/119892522-85478f80-bf3a-11eb-8cbd-5921807e25e0.png)
    
@@ -27,6 +29,7 @@ However, they don't have to be in the black area of the client.
    Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
 ) Custom Items in the "Items to buy".
    It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
+
 
 
 ## Treasure Maps ##
