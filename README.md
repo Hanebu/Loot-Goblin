@@ -13,23 +13,23 @@ Make sure that they are completly visible. However, they don't have to be in the
 ## Buttons
    ![image](https://user-images.githubusercontent.com/52481026/119892522-85478f80-bf3a-11eb-8cbd-5921807e25e0.png)
    
-   ### Import:
+### Import:
    
    Will scan the screen for the opened Tomes and Treasure Maps.
    
-   ### Export sell:
+### Export sell:
    
    Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
 ) Mastery Scrolls, Aspect Items and Items in the "Items to sell".
    It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
    
-   ### Export buy:
+### Export buy:
    
    Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
 ) Custom Items in the "Items to buy".
    It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
 
-   ### Example Export string:
+### Example Export string:
 ```
 - ### Valueable Mastery Scrolls ###
 +  4x Alchemy 12k
