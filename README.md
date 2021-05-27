@@ -2,6 +2,8 @@
 ## Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations.
 ![image](https://user-images.githubusercontent.com/52481026/119888831-22ec9000-bf36-11eb-91ac-13772a83a0e2.png)
 
+## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v0.1/LootGoblin.exe)
+
 ## How to use
 
 Open the Tome or Treasure Map you want to read.  
