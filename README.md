@@ -46,3 +46,16 @@ The colored square, next to the Rune Tome, is indicating the Rune Tome color. Th
 The number behind the footsteps is the approximately distance from the marked rune to the Treasure Map location in a straight line.
 
 ![image](https://user-images.githubusercontent.com/52481026/119893882-36025e80-bf3c-11eb-8392-2bd18500b0b3.png)
+
+
+
+## Custom items to sell or buy ##
+To add custom items to buy or sell, simply press ![image](https://user-images.githubusercontent.com/52481026/119897370-985d5e00-bf40-11eb-8b41-f0ab4be14b74.png) on the gump. You can now add you own items to buy or sell. 
+
+The first textbox is the name of the item and should be filled.  
+The checkbox indicates if the item will be exported or not.  
+The second textbox is the amount, you can enter any string (e.g. "500", "50k" or "5m"). This textbox is optional.  
+The third textbox is the price, you can enter any string (e.g. "500", "50k" or "5m"). This textbox is also optional.  
+The fourth textbox is the group name, all items with the same group name will be under the same header when exporting.
+
+![image](https://user-images.githubusercontent.com/52481026/119897329-8a0f4200-bf40-11eb-9bbd-4f9e723c4a77.png)
