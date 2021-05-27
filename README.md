@@ -3,9 +3,8 @@
 
 ## How to use
 
-### Open the Tome or Treasure Map you want to read. ###
-Make sure that they are completly visible.  
-However, they don't have to be in the black area of the client.
+Open the Tome or Treasure Map you want to read.  
+Make sure that they are completly visible. However, they don't have to be in the black area of the client.
    ![image](https://user-images.githubusercontent.com/52481026/119891287-1453a800-bf39-11eb-845a-2a7e92ee3461.png)
 
 
