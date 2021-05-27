@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+ # Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations. #
+![image](https://user-images.githubusercontent.com/52481026/119888831-22ec9000-bf36-11eb-91ac-13772a83a0e2.png)
 
-You can use the [editor on GitHub](https://github.com/Hanebu/Loot-Goblin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## How to use ###
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Open the Tome or Treasure Map you want to read. ###
+Make sure that they are completly visible.
+However, they don't have to be in the black area of the client.
+   ![image](https://user-images.githubusercontent.com/52481026/119891287-1453a800-bf39-11eb-845a-2a7e92ee3461.png)
 
-### Markdown
+## Buttons ##
+   ![image](https://user-images.githubusercontent.com/52481026/119892522-85478f80-bf3a-11eb-8cbd-5921807e25e0.png)
+   
+   ### Import: ###
+   
+   Will scan the screen for the opened Tomes and Treasure Maps
+   
+   
+   ### Export sell: ###
+   
+   Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
+) Mastery Scrolls, Aspect Items and Items in the "Items to sell".
+   It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
+   
+   ### Export buy: ###
+   
+   Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
+) Custom Items in the "Items to buy".
+   It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Treasure Maps ##
+After the succesful import of a Treasure Map, the location of the Treasure Map will be shown on the button (e.g. 1087, 2648).
+By pressing the button [ExploreOutlands.com](http://www.exploreoutlands.com) will be opened with the exact coordinates of the location.
 
-# Header 1
-## Header 2
-### Header 3
+It will also directly show you which Rune Tome and which Recall Rune you should use for this specific location.
+Currently are two different number systems supported:
 
-- Bulleted
-- List
+  1. General Treasure Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
+  2. Witchers Treasure Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hanebu/Loot-Goblin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/52481026/119893882-36025e80-bf3c-11eb-8392-2bd18500b0b3.png)
