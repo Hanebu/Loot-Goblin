@@ -1,4 +1,4 @@
- # Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations. #
+# Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations. #
 ![image](https://user-images.githubusercontent.com/52481026/119888831-22ec9000-bf36-11eb-91ac-13772a83a0e2.png)
 
 ## How to use ###
