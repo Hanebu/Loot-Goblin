@@ -1,4 +1,5 @@
-# Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations.
+# LootGoblin
+## Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations.
 ![image](https://user-images.githubusercontent.com/52481026/119888831-22ec9000-bf36-11eb-91ac-13772a83a0e2.png)
 
 ## How to use
@@ -14,8 +15,7 @@ Make sure that they are completly visible. However, they don't have to be in the
    
    ### Import:
    
-   Will scan the screen for the opened Tomes and Treasure Maps
-   
+   Will scan the screen for the opened Tomes and Treasure Maps.
    
    ### Export sell:
    
@@ -29,6 +29,60 @@ Make sure that they are completly visible. However, they don't have to be in the
 ) Custom Items in the "Items to buy".
    It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
 
+   ### Example Export string:
+```
+- ### Valueable Mastery Scrolls ###
++  4x Alchemy 12k
++  4x Animal Lore 35k
++  4x Animal Taming 35k
++  5x Discordance 10k
++  4x Peacemaking 10k
++  3x Poisoning 10k
+
+- ### Trash Mastery Scrolls (2 @ 7k) ###
++  1x Arms Lore 7k
++  1x Detect Hidden 7k
+
+- ### Aspect Cores ###
++ 25x Air Core 10k
++  8x Earth Core 4k
++  6x Poison Core 3k
++ 18x Shadow Core 6k
++ 14x Water Core 6k
+
+- ### Aspect Extracts / Distills ###
++  3x Air Extracts 10k
++  2x Earth Extracts 5k
++  1x Lyric Extracts 12k
++  1x Poison Extracts 4k
+
+- ### Armor ###
++ Invulnerability Leather Cap 50k
++ Invulnerability Armor pieces 5k
+
+- ### Books ###
++ Codex of Archery 55k
++ Codex of Fencing 55k
++ Codex of Macing 55k
++ Codex of Swordsmanship 55k
++ Codex of Shields 55k
++ Summoner's Tome 55k
++ Taming Bestiary 55k
++ Wizard's Grimoire 55k
+
+- ### Services ###
++  120 Alchemy 
++  120 Blacksmithy 
++  120 Carpentry 
++  120 Cartography 
++  120 Cooking 
++  120 Inscription 
++  120 Lockpicking 
++  120 Poisoning 
++  120 Remove Trap 
++  120 Tailoring 
++  120 Tinkering 
+```
 
 
 ## Treasure Maps
