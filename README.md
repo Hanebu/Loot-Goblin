@@ -87,15 +87,15 @@ Make sure that they are completly visible. However, they don't have to be in the
 ```
 
 
-## Treasure Maps
-After the succesful import of a Treasure Map, the location of the Treasure Map will be shown on the button (e.g. 1087, 2648).
+## Treasure Maps / Resource Maps / Fishing Maps
+After the succesful import of any Map, the location of the Map will be shown on the button (e.g. 1087, 2648).
 By pressing the button, [ExploreOutlands.com](http://www.exploreoutlands.com) will be opened with the exact coordinates of the location.
 
 It will also directly show you which Rune Tome and which Recall Rune you should use for this specific location.
 Currently are two different number systems supported:
 
-  1. General Treasure Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
-  2. Witchers Treasure Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
+  1. General Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
+  2. Witchers Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
 
 The colored square, next to the Rune Tome, is indicating the Rune Tome color. The number or name, next to the Rune, tells you which rune to recall to.
 The number behind the footsteps is the approximately distance from the marked rune to the Treasure Map location in a straight line.
