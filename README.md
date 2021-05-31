@@ -139,5 +139,3 @@ In the Control gump, you can also see the sum of all sub sums (= total value of 
 - Fixed a bug where Maps that were surrounded on 3 sides by water were located incorrectly.
 - Added hovereffect for the add and remove item buttons.
 - Added hovereffect for the sorting buttons.
-- 
-
