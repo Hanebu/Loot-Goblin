@@ -2,7 +2,7 @@
 ## Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations.
 ![image](https://user-images.githubusercontent.com/52481026/119888831-22ec9000-bf36-11eb-91ac-13772a83a0e2.png)
 
-## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v0.1/LootGoblin.exe)
+## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v0.2/LootGoblin.exe)
 
 ## How to use
 
@@ -114,3 +114,30 @@ The third textbox is the price, you can enter any string (e.g. "500", "50k" or "
 The fourth textbox is the group name, all items with the same group name will be under the same header when exporting.
 
 ![image](https://user-images.githubusercontent.com/52481026/119897329-8a0f4200-bf40-11eb-9bbd-4f9e723c4a77.png)
+
+
+
+
+
+
+
+## New in version v0.2  
+
+### Trash Mastery Scroll price threshold
+You can now set a custom price threshold for Trash Mastery Scrolls.  
+If you change the value, all Mastery Scrolls that were set to the old threshold will have their price adjusted accordingly.
+![image](https://user-images.githubusercontent.com/52481026/120161379-82c58e00-c1f7-11eb-8e9d-c66b652fe828.png)  
+
+### Sum of each item group and sum of all items for sale
+Each item group will now have displayed their sum for all active items displayed in the bottom right hand corner:
+![image](https://user-images.githubusercontent.com/52481026/120161539-b86a7700-c1f7-11eb-87bb-42fe5af11e93.png)  
+
+In the Control gump, you can also see the sum of all sub sums (= total value of all items for sale):  
+![image](https://user-images.githubusercontent.com/52481026/120161641-d506af00-c1f7-11eb-936d-2788fc48cb4d.png)
+
+### Bugfixes / Changes
+- Fixed a bug where Maps that were surrounded on 3 sides by water were located incorrectly.
+- Added hovereffect for the add and remove item buttons.
+- Added hovereffect for the sorting buttons.
+- 
+
