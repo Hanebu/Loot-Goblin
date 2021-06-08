@@ -119,6 +119,13 @@ The fourth textbox is the group name, all items with the same group name will be
 
 
 
+## New in version v0.3  
+## Mastery Scroll color indicator  
+Mastery Scrolls are now colored depending on their state.  
+Black: Regular Scroll
+Brown: Trash Scroll
+Gray: Scroll not for sale
+![image](https://user-images.githubusercontent.com/52481026/121256658-14469700-c8ad-11eb-9495-9bd66021a978.png)
 
 
 ## New in version v0.2  
