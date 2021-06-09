@@ -132,11 +132,11 @@ Black: Regular Scroll
 
 ### Trash Mastery Scroll price threshold
 You can now set a custom price threshold for Trash Mastery Scrolls.  
-If you change the value, all Mastery Scrolls that were set to the old threshold will have their price adjusted accordingly.
+If you change the value, all Mastery Scrolls that were set to the old threshold will have their price adjusted accordingly.  
 ![image](https://user-images.githubusercontent.com/52481026/120161379-82c58e00-c1f7-11eb-8e9d-c66b652fe828.png)  
 
 ### Sum of each item group and sum of all items for sale
-Each item group will now have displayed their sum for all active items displayed in the bottom right hand corner:
+Each item group will now have displayed their sum for all active items displayed in the bottom right hand corner:  
 ![image](https://user-images.githubusercontent.com/52481026/120161539-b86a7700-c1f7-11eb-87bb-42fe5af11e93.png)  
 
 In the Control gump, you can also see the sum of all sub sums (= total value of all items for sale):  
