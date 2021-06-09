@@ -119,7 +119,7 @@ The fourth textbox is the group name, all items with the same group name will be
 
 
 
-## New in version v0.3  
+## (Preview) New in version v0.3  
 ### Mastery Scroll color indicator  
 Mastery Scrolls are now colored depending on their state.  
 Gray: Scroll not for sale  
