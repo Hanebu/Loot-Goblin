@@ -1,5 +1,5 @@
 # LootGoblin
-## Import and Export your Mastery Scrolls, Aspect Items and Treasure Map locations.
+## Easiest way to locate Treasure Maps, Resource Maps and to keep track of all items you wanna sell or buy!  
 ![image](https://user-images.githubusercontent.com/52481026/120170454-439c3a80-c201-11eb-98c7-b63450aeb70b.png)
 
 ## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v0.2/LootGoblin.exe)
