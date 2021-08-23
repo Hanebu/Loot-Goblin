@@ -127,6 +127,10 @@ Brown: Trash Scroll
 Black: Regular Item  
 ![image](https://user-images.githubusercontent.com/52481026/121256658-14469700-c8ad-11eb-9495-9bd66021a978.png)
 
+### New Aspects added
+Of course the Aspects for 'Year 3 Anniversary Expansion' are added!
+![image](https://user-images.githubusercontent.com/52481026/130442699-5d5e8ea0-a205-4e87-95f1-1195d61894da.png)
+
 
 ## New in version v0.2  
 
