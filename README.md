@@ -136,6 +136,10 @@ Brown: Trash Scroll
 Black: Regular Item  
 ![image](https://user-images.githubusercontent.com/52481026/121256658-14469700-c8ad-11eb-9495-9bd66021a978.png)
 
+### Link to GitHub
+If you press the LootGoblin logo, the GitHub page will be open. 
+Easiest way to check for updates and the download link.
+
 ### Bugfixes / Changes
 - Fixed a bug where Water Extracts were not imported at all.
 - Added a total amount of all Trash Scrolls (does not matter if they are for sale or not).
