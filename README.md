@@ -92,7 +92,7 @@ After the succesful import of any Map, the location of the Map will be shown on 
 By pressing the button, [ExploreOutlands.com](http://www.exploreoutlands.com) will be opened with the exact coordinates of the location.
 
 It will also directly show you which Rune Tome and which Recall Rune you should use for this specific location.
-Currently are two different number systems supported:
+Currently are three different number systems supported:
 
   1. General Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
   2. Witchers Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
