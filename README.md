@@ -121,9 +121,11 @@ The fourth textbox is the group name, all items with the same group name will be
 
 
 ## (Preview) New in version v1.0  
-### New Aspects added
-Of course the Aspects for 'Year 3 Anniversary Expansion' are added!  
+### New Mastery Scrolls and Aspect Items added
+Of course the Mastery Scrolls and Aspect Items for 'Year 3 Anniversary Expansion' are added!  
 ![image](https://user-images.githubusercontent.com/52481026/130442699-5d5e8ea0-a205-4e87-95f1-1195d61894da.png)
+![image](https://user-images.githubusercontent.com/52481026/131492844-355c0d1f-b99c-4921-8eef-a085646c35c3.png)
+
 
 ### BlackDragon's Rune System
 Added the Rune System of BlackDragon. Now all major Rune Systems are implemented.  
