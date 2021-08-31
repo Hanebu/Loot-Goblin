@@ -145,7 +145,7 @@ With the newly added CheckBoxes for Extracts and Distillation you can select ver
 ![image](https://user-images.githubusercontent.com/52481026/131469399-12156f48-3947-4e02-ae72-79bcefb2620f.png)
 
 ### Link to GitHub
-If you press the LootGoblin logo, the GitHub page will be open. 
+If you press the LootGoblin logo, the GitHub page will be opened. 
 Easiest way to check for updates and the download link.
 
 ### Bugfixes / Changes
