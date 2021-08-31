@@ -146,6 +146,7 @@ Easiest way to check for updates and the download link.
 
 ### Bugfixes / Changes
 - Fixed a bug where Water Extracts were not imported at all.
+- Fixed a bug where the mouse cursor was reverting to its default windows cursor when hovering the ScrollBar area.
 - Added a total amount of all Trash Scrolls (does not matter if they are for sale or not).
 
 ## New in version v0.2  
