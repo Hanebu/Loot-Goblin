@@ -96,6 +96,7 @@ Currently are two different number systems supported:
 
   1. General Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
   2. Witchers Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
+  3. (not live) BlackDragons Map System ([More info](https://forums.uooutlands.com/index.php?threads/blackdragons-advanced-tmapping-guide-auto-tmap-helpers.3654/))
 
 The colored square, next to the Rune Tome, is indicating the Rune Tome color. The number or name, next to the Rune, tells you which rune to recall to.
 The number behind the footsteps is the approximately distance from the marked rune to the Treasure Map location in a straight line.
@@ -120,16 +121,20 @@ The fourth textbox is the group name, all items with the same group name will be
 
 
 ## (Preview) New in version v1.0  
+### New Aspects added
+Of course the Aspects for 'Year 3 Anniversary Expansion' are added!  
+![image](https://user-images.githubusercontent.com/52481026/130442699-5d5e8ea0-a205-4e87-95f1-1195d61894da.png)
+
+### BlackDragon's Rune System
+Added the Rune System of BlackDragon. Now all major Rune System are implemented.  
+Thanks for everyone who contributed!
+
 ### Item color indicator  
 All items are now colored depending on their state.  
 Gray: Item not for sale  
 Brown: Trash Scroll  
 Black: Regular Item  
 ![image](https://user-images.githubusercontent.com/52481026/121256658-14469700-c8ad-11eb-9495-9bd66021a978.png)
-
-### New Aspects added
-Of course the Aspects for 'Year 3 Anniversary Expansion' are added!  
-![image](https://user-images.githubusercontent.com/52481026/130442699-5d5e8ea0-a205-4e87-95f1-1195d61894da.png)
 
 ### Bugfixes / Changes
 - Fixed a bug where Water Extracts were not imported at all.
