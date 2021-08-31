@@ -126,7 +126,7 @@ Of course the Aspects for 'Year 3 Anniversary Expansion' are added!
 ![image](https://user-images.githubusercontent.com/52481026/130442699-5d5e8ea0-a205-4e87-95f1-1195d61894da.png)
 
 ### BlackDragon's Rune System
-Added the Rune System of BlackDragon. Now all major Rune System are implemented.  
+Added the Rune System of BlackDragon. Now all major Rune Systems are implemented.  
 Thanks for everyone who contributed!
 
 ### Item color indicator  
