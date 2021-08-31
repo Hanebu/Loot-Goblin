@@ -119,7 +119,7 @@ The fourth textbox is the group name, all items with the same group name will be
 
 
 
-## (Preview) New in version v0.3  
+## (Preview) New in version v1.0  
 ### Item color indicator  
 All items are now colored depending on their state.  
 Gray: Item not for sale  
@@ -131,6 +131,9 @@ Black: Regular Item
 Of course the Aspects for 'Year 3 Anniversary Expansion' are added!  
 ![image](https://user-images.githubusercontent.com/52481026/130442699-5d5e8ea0-a205-4e87-95f1-1195d61894da.png)
 
+### Bugfixes / Changes
+- Fixed a bug where Water Extracts were not imported at all.
+- Added a total amount of all Trash Scrolls (does not matter if they are for sale or not).
 
 ## New in version v0.2  
 
