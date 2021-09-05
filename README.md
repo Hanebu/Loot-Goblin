@@ -1,8 +1,9 @@
 # LootGoblin
 ## Easiest way to locate Treasure Maps, Resource Maps and to keep track of all items you wanna sell or buy!  
-![image](https://user-images.githubusercontent.com/52481026/120170454-439c3a80-c201-11eb-98c7-b63450aeb70b.png)
+![image](https://user-images.githubusercontent.com/52481026/132117634-e7fd5b71-7dc9-4c25-a989-91f03e9e1e03.png)
 
-## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v0.2/LootGoblin.exe)
+
+## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.0/LootGoblin.exe)
 
 ## How to use
 
@@ -96,7 +97,7 @@ Currently are three different number systems supported:
 
   1. General Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
   2. Witchers Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
-  3. (not live) BlackDragons Map System ([More info](https://forums.uooutlands.com/index.php?threads/blackdragons-advanced-tmapping-guide-auto-tmap-helpers.3654/))
+  3. BlackDragons Map System ([More info](https://forums.uooutlands.com/index.php?threads/blackdragons-advanced-tmapping-guide-auto-tmap-helpers.3654/))
 
 The colored square, next to the Rune Tome, is indicating the Rune Tome color. The number or name, next to the Rune, tells you which rune to recall to.
 The number behind the footsteps is the approximately distance from the marked rune to the Treasure Map location in a straight line.
