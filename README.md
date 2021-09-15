@@ -117,6 +117,14 @@ The fourth textbox is the group name, all items with the same group name will be
 
 ![image](https://user-images.githubusercontent.com/52481026/119897329-8a0f4200-bf40-11eb-9bbd-4f9e723c4a77.png)
 
+## Upcoming Pre-Release v1.2-alpha  ![MapGoblin_02](https://user-images.githubusercontent.com/52481026/133500458-5df21d6c-6db5-40d9-97db-dcb12381701a.png)
+### In the next version, MapGoblin will be introduced!  
+MapGoblin is basically a Mini-Map that allows you to track your own chars.  
+You can open the MapGoblin by clicking on the actual MapGoblin in the LootGoblin-App.  
+
+The current version does not support any other feature than tracking your char.  
+All Treasure Map location will be shown on MapGoblin. You can also place custom markers.  
+You can download the pre-release [here](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.2a/LootGoblin.exe).
 
 
 ## New in version v1.1   
