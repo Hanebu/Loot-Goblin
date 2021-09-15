@@ -1,4 +1,4 @@
-# LootGoblin
+# LootGoblin v1.1
 ## Easiest way to locate Treasure Maps, Resource Maps and to keep track of all items you wanna sell or buy!  
 ![image](https://user-images.githubusercontent.com/52481026/132117634-e7fd5b71-7dc9-4c25-a989-91f03e9e1e03.png)
 
