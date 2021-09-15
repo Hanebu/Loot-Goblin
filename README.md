@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/52481026/132117634-e7fd5b71-7dc9-4c25-a989-91f03e9e1e03.png)
 
 
-## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.0/LootGoblin.exe)
+## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.1/LootGoblin.exe)
 
 ## How to use
 
