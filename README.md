@@ -119,7 +119,10 @@ The fourth textbox is the group name, all items with the same group name will be
 
 
 
-
+## New in version v1.1   
+### BlackDragons Rune System for the Expansion Land added
+The new runes locations for the expansion has been added.
+Witchers system will follow soon, stay tuned!
 
 ## New in version v1.0  
 ### New Mastery Scrolls and Aspect Items added
