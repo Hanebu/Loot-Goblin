@@ -1,9 +1,12 @@
-# LootGoblin v1.1 (Check out pre-release v1.2a)
+# LootGoblin v1.3 (Check out MapGoblin!)
 ## Easiest way to locate Treasure Maps, Resource Maps and to keep track of all items you wanna sell or buy!  
-![image](https://user-images.githubusercontent.com/52481026/132117634-e7fd5b71-7dc9-4c25-a989-91f03e9e1e03.png)
+![image](https://user-images.githubusercontent.com/52481026/132117634-e7fd5b71-7dc9-4c25-a989-91f03e9e1e03.png)  
+![image](https://user-images.githubusercontent.com/52481026/139020765-d022f642-3f18-4de2-98c7-577d37dc2bf7.png)  
+![image](https://user-images.githubusercontent.com/52481026/139020706-bbbb8b28-a651-4087-8b0e-8c6b88cedfb5.png)  
 
 
-## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.1/LootGoblin.exe)
+
+## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.3/LootGoblin.rar)
 
 ## How to use
 
@@ -117,13 +120,24 @@ The fourth textbox is the group name, all items with the same group name will be
 
 ![image](https://user-images.githubusercontent.com/52481026/119897329-8a0f4200-bf40-11eb-9bbd-4f9e723c4a77.png)
 
-## Pre-Release v1.2-alpha  ![MapGoblin_02](https://user-images.githubusercontent.com/52481026/133500458-5df21d6c-6db5-40d9-97db-dcb12381701a.png)
-### In the next version, MapGoblin will be introduced!  
+## New in version v1.3  ![MapGoblin_02](https://user-images.githubusercontent.com/52481026/133500458-5df21d6c-6db5-40d9-97db-dcb12381701a.png)
+### LootGoblin Light is now available!
+### MapGoblin is now a stand-alone application!  
+LootGoblin Light has the same functions and feature, but its UI is reduced to the absolute minimum.  
+![image](https://user-images.githubusercontent.com/52481026/139020306-5b014ce1-fc5b-4d2e-914a-46d62f1e4b36.png)  
+To switch the UI to the Light version you can simply press ![image](https://user-images.githubusercontent.com/52481026/139020401-e2b06b33-6b5d-4f9a-9616-eede09585044.png)
+in the upper right corner. By pressing the button again the regular UI will be restored.  
+
+The new minimap called MapGoblin is no longer inside LootGoblin.  
+![image](https://user-images.githubusercontent.com/52481026/139020765-d022f642-3f18-4de2-98c7-577d37dc2bf7.png)  
+The new download link is a rar-file which contains both files, LootGoblin and MapGoblin. However, you can still start MapGoblin directly from the LootGoblin app by pressing the logo in the Options-Gump.
+
+
+## New in version v1.2  
+### MapGoblin pre-release will be introduced!  
 MapGoblin is basically a Mini-Map that allows you to track your own chars.  
 You can open the MapGoblin by clicking on the actual MapGoblin in the LootGoblin-App.  
 All Rune System Markers and Points Of Interest have been added to MapGoblin!
-You can download the pre-release [here](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.2a/LootGoblin.exe).
-
 
 ## New in version v1.1   
 ### BlackDragons Rune System for the Expansion Land added
