@@ -1,95 +1,86 @@
-# LootGoblin v1.3 (Check out MapGoblin!)
-## Easiest way to locate Treasure Maps, Resource Maps and to keep track of all items you wanna sell or buy!  
-![image](https://user-images.githubusercontent.com/52481026/132117634-e7fd5b71-7dc9-4c25-a989-91f03e9e1e03.png)  
-![image](https://user-images.githubusercontent.com/52481026/139020765-d022f642-3f18-4de2-98c7-577d37dc2bf7.png)  
-![image](https://user-images.githubusercontent.com/52481026/139020706-bbbb8b28-a651-4087-8b0e-8c6b88cedfb5.png)  
+# LootGoblin v1.4 - featuring MapGoblin and LootGoblin Light!
+## Easiest way to locate Treasure Maps, Resource Maps, yourself (Mini-Map) and to buy or sell your Items on Discord or even your own vendor! [Click here to download.](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.4/LootGoblin.rar)
+### LootGoblin Regular  
+![image](https://user-images.githubusercontent.com/52481026/140172976-72f791c0-643a-4c01-a4f7-73c248580e97.png)  
+  
+  
+### LootGoblin Light  
+![image](https://user-images.githubusercontent.com/52481026/140173012-4d7e0b7d-15eb-4474-91ef-7a2f8406cfc6.png)  
+  
+  
+### MapGoblin  
+![image](https://user-images.githubusercontent.com/52481026/140173359-31dbcbc0-99fa-47a7-8614-be51885a9ec8.png)
+  
+  
+  
+## 
 
-
-
-## [Click here to download](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.3/LootGoblin.rar)
-
-## How to use
-
+## How to use LootGoblin / Functions  
+This app can automatically locate your opened Treasure / Resource Maps and can read from your Mastery and Aspect Tomes.  
+  
 Open the Tome or Treasure Map you want to read.  
-Make sure that they are completly visible. However, they don't have to be in the black area of the client.
-   ![image](https://user-images.githubusercontent.com/52481026/119891287-1453a800-bf39-11eb-845a-2a7e92ee3461.png)
+Make sure that they are completly visible. However, they don't have to be in the black area of the client.  
+  
+![image](https://user-images.githubusercontent.com/52481026/140174311-ef581715-99cc-4d08-969d-e6376eff2d2b.png)
+  
+Now you can press "Scan" and the app will automatically locate the map (if you have one open) and will tell you the best Rune for all 3 different major Rune Systems!  
+  
+The app will also read the amount of each item you current have in stock from your open Tome Gumps. After adjusting the price and (de)activating some items you might want to keep for yourself, you can press "Sell" to create the pastable string direclty to your clipboard. Simply go over to Outlands Discord Sell-Channel and press CTRL-V:
+
+```
+- ### Valueable Mastery Scrolls ###
+  1x Alchemy 10k
+  5x Animal Lore 25k
+  3x Animal Taming 25k
+  1x Chivalry 30k
+  6x Discordance 10k
+  2x Inscription 10k
+
+- ### Trash Mastery Scrolls (9 @ 7k) ###
+  1x Begging 7k
+  5x Blacksmithy 7k
+  3x Camping 7k
+
+- ### Aspect Cores ###
+  4x Discipline Core 20k
+ 12x Earth Core 4k
+  2x Eldritch Core 15k
+
+- ### Aspect Extracts / Distills ###
+   1x Discipline Extracts 20k
+   3x Earth Extracts 5k
+   3x Fire Extracts 10k
+```  
+  
+  
+  
+  
+
+
 
 
 
 ## Buttons
-   ![image](https://user-images.githubusercontent.com/52481026/119892522-85478f80-bf3a-11eb-8cbd-5921807e25e0.png)
+   ![image](https://user-images.githubusercontent.com/52481026/140176079-ba0822b6-a94f-4fae-b5bc-97ef31de8ad1.png)
    
-### Import:
+### Scan:     
+   Will scan the screen for the opened Tomes and Treasure Maps.  
    
-   Will scan the screen for the opened Tomes and Treasure Maps.
-   
-### Export sell:
-   
+### Sell:     
    Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
 ) Mastery Scrolls, Aspect Items and Items in the "Items to sell".
-   It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
+   It will create a string in the clipboard, so you can directly post it in Discord using CTRL-V.  
    
-### Export buy:
-   
+### Buy:     
    Will export all active ( ![image](https://user-images.githubusercontent.com/52481026/119893481-b4123580-bf3b-11eb-930e-9ac07977e460.png)
 ) Custom Items in the "Items to buy".
-   It will create a string in the clipboard, so you can directly post it in Discord using CTRL+V.
+   It will create a string in the clipboard, so you can directly post it in Discord using CTRL-V.
+   
+### Script:    
+   Will create a script that automatically restock your vendor with Scrolls, Cores and Extracts and sets the price accordingly. After the script was created, the files will be opened automatically:   
+   ![image](https://user-images.githubusercontent.com/52481026/140176557-248b0294-26be-4717-b2eb-9b9946b5d11a.png)
 
-### Example Export string:
-```
-- ### Valueable Mastery Scrolls ###
-  4x Alchemy 12k
-  4x Animal Lore 35k
-  4x Animal Taming 35k
-  5x Discordance 10k
-  4x Peacemaking 10k
-  3x Poisoning 10k
-
-- ### Trash Mastery Scrolls (2 @ 7k) ###
-  1x Arms Lore 7k
-  1x Detect Hidden 7k
-
-- ### Aspect Cores ###
- 25x Air Core 10k
-  8x Earth Core 4k
-  6x Poison Core 3k
- 18x Shadow Core 6k
- 14x Water Core 6k
-
-- ### Aspect Extracts / Distills ###
-  3x Air Extracts 10k
-  2x Earth Extracts 5k
-  1x Lyric Extracts 12k
-  1x Poison Extracts 4k
-
-- ### Armor ###
- Invulnerability Leather Cap 50k
- Invulnerability Armor pieces 5k
-
-- ### Books ###
- Codex of Archery 55k
- Codex of Fencing 55k
- Codex of Macing 55k
- Codex of Swordsmanship 55k
- Codex of Shields 55k
- Summoner's Tome 55k
- Taming Bestiary 55k
- Wizard's Grimoire 55k
-
-- ### Services ###
-  120 Alchemy 
-  120 Blacksmithy 
-  120 Carpentry 
-  120 Cartography 
-  120 Cooking 
-  120 Inscription 
-  120 Lockpicking 
-  120 Poisoning 
-  120 Remove Trap 
-  120 Tailoring 
-  120 Tinkering 
-```
-
+   
 
 ## Treasure Maps / Resource Maps / Fishing Maps
 After the succesful import of any Map, the location of the Map will be shown on the button (e.g. 1087, 2648).
@@ -119,6 +110,39 @@ The third textbox is the price, you can enter any string (e.g. "500", "50k" or "
 The fourth textbox is the group name, all items with the same group name will be under the same header when exporting.
 
 ![image](https://user-images.githubusercontent.com/52481026/119897329-8a0f4200-bf40-11eb-9bbd-4f9e723c4a77.png)
+
+
+## LootGoblin Light   
+When you setting up a massive Resource or Treasure Map run, the big UI of LootGoblin might be not handy for you. The new UI of LootGoblin Light can simply be activated by the middle button in the upper righthand corner of the LootGoblin window:   
+![image](https://user-images.githubusercontent.com/52481026/140176919-2b2e5cf9-11f1-40dc-b81f-dc133d54bf97.png)  
+The very small UI of LootGoblin Light has the same functionality as the regular one, but its UI seamlessly fits into your client and will stay always on top if you active the option.
+![image](https://user-images.githubusercontent.com/52481026/140177124-ccc48b2b-89e6-4100-adeb-7018607bd1e5.png)   
+   
+   
+## MapGoblin
+The Minimap you see in the picture above is the new MapGoblin Minimap and can either started manually through the MapGoblin.exe or by pressing the MapGoblin (Both files have to be in the same directory...):  
+![image](https://user-images.githubusercontent.com/52481026/140177740-64368615-9e4c-4a37-b8bf-7a32754f91cb.png) ![image](https://user-images.githubusercontent.com/52481026/140177772-8d454df7-aed1-4a62-b2a6-6eed0ccebdde.png)  
+  
+  The Next version of MapGoblin will come with full network support. Similar to ExploreOutlands.com you will be able to track all currently logged in guildmates or friends. However they will have to actively log into the server and enter your guilds password.  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+## New in version v1.4
+### Complete overhaul of the internal functions for better scalability.   
+Changed all buttons to async-mode, the UI will no longer be unresponsive when scanning.   
+Added a ProgressBar for scanning the screen, some Maps still take quite a bit of time to be located.   
+Changed the design of all buttons and fixed some bugs.
 
 ## New in version v1.3  ![MapGoblin_02](https://user-images.githubusercontent.com/52481026/133500458-5df21d6c-6db5-40d9-97db-dcb12381701a.png)
 ### LootGoblin Light is now available!
