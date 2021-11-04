@@ -1,5 +1,5 @@
-# LootGoblin v1.4 - featuring MapGoblin and LootGoblin Light!
-## Easiest way to locate Treasure Maps, Resource Maps, yourself (Mini-Map) and to buy or sell your Items on Discord or even your own vendor! [Click here to download.](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.4/LootGoblin.rar)
+# LootGoblin v1.5 - featuring MapGoblin and LootGoblin Light!
+## Easiest way to locate Treasure Maps, Resource Maps, yourself (Mini-Map) and to buy or sell your Items on Discord or even your own vendor! [Click here to download.](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.5/LootGoblin.rar)
 ### LootGoblin Regular  
 ![image](https://user-images.githubusercontent.com/52481026/140172976-72f791c0-643a-4c01-a4f7-73c248580e97.png)  
   
@@ -12,8 +12,7 @@
 ![image](https://user-images.githubusercontent.com/52481026/140173359-31dbcbc0-99fa-47a7-8614-be51885a9ec8.png)
   
   
-  
-## 
+
 
 ## How to use LootGoblin / Functions  
 This app can automatically locate your opened Treasure / Resource Maps and can read from your Mastery and Aspect Tomes.  
@@ -23,7 +22,7 @@ Make sure that they are completly visible. However, they don't have to be in the
   
 ![image](https://user-images.githubusercontent.com/52481026/140174311-ef581715-99cc-4d08-969d-e6376eff2d2b.png)
   
-Now you can press "Scan" and the app will automatically locate the map (if you have one open) and will tell you the best Rune for all 3 different major Rune Systems!  
+Now you can press "Scan" and the app will automatically locate the map (if you have one open) and will tell you the best Rune for all 4 different major Rune Systems!  
   
 The app will also read the amount of each item you current have in stock from your open Tome Gumps. After adjusting the price and (de)activating some items you might want to keep for yourself, you can press "Sell" to create the pastable string direclty to your clipboard. Simply go over to Outlands Discord Sell-Channel and press CTRL-V:
 
@@ -92,6 +91,7 @@ Currently are three different number systems supported:
   1. General Map System ([More info](https://forums.uooutlands.com/index.php?threads/outlands-treasure-map.3051/#lg=attachment4455&slide=0))
   2. Witchers Map System ([More info](https://forums.uooutlands.com/index.php?threads/witchers-guide-to-tmaps-how-you-can-and-why-you-should-be-running-your-own-tmaps.3439/))
   3. BlackDragons Map System ([More info](https://forums.uooutlands.com/index.php?threads/blackdragons-advanced-tmapping-guide-auto-tmap-helpers.3654/))
+  4. Points of Interest ([More info](https://uooutlands.com/wiki/Points_of_Interest))
 
 The colored square, next to the Rune Tome, is indicating the Rune Tome color. The number or name, next to the Rune, tells you which rune to recall to.
 The number behind the footsteps is the approximately distance from the marked rune to the Treasure Map location in a straight line.
@@ -135,8 +135,12 @@ The Minimap you see in the picture above is the new MapGoblin Minimap and can ei
    
    
    
-   
-   
+## New in version v1.5
+### Added custom makers and Points of Interest rune system!   
+You can now add custom markers (or modify the existing ones).  
+![image](https://user-images.githubusercontent.com/52481026/140401370-ce062361-0d11-4d02-a2e1-7b3d6eb4a272.png)  
+Also the Points of Interest rune system as been implemented as a fourth option.  
+![image](https://user-images.githubusercontent.com/52481026/140401330-1cd12f93-18a1-4a9e-bc63-99b31945fdf4.png)   
 
 ## New in version v1.4
 ### Complete overhaul of the internal functions for better scalability.   
@@ -144,7 +148,7 @@ Changed all buttons to async-mode, the UI will no longer be unresponsive when sc
 Added a ProgressBar for scanning the screen, some Maps still take quite a bit of time to be located.   
 Changed the design of all buttons and fixed some bugs.
 
-## New in version v1.3  ![MapGoblin_02](https://user-images.githubusercontent.com/52481026/133500458-5df21d6c-6db5-40d9-97db-dcb12381701a.png)
+## New in version v1.3
 ### LootGoblin Light is now available!
 ### MapGoblin is now a stand-alone application!  
 LootGoblin Light has the same functions and feature, but its UI is reduced to the absolute minimum.  
