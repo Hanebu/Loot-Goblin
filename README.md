@@ -1,4 +1,4 @@
-# LootGoblin v1.5 - featuring MapGoblin and LootGoblin Light!
+# LootGoblin v2.0 - featuring MapGoblin,LootGoblin Light and Auto-Update!
 ## Easiest way to locate Treasure Maps, Resource Maps, yourself (Mini-Map) and to buy or sell your Items on Discord or even your own vendor! [Click here to download.](https://github.com/Hanebu/Loot-Goblin/releases/download/v1.5/LootGoblin.rar)
 ### LootGoblin Regular  
 ![image](https://user-images.githubusercontent.com/52481026/140172976-72f791c0-643a-4c01-a4f7-73c248580e97.png)  
@@ -12,6 +12,9 @@
 ![image](https://user-images.githubusercontent.com/52481026/140173359-31dbcbc0-99fa-47a7-8614-be51885a9ec8.png)
   
   
+### Auto-Update   
+![image](https://user-images.githubusercontent.com/52481026/140654019-d1ecc680-5b1b-4e37-8b81-86fbd0ead5ad.png)   
+     
 
 
 ## How to use LootGoblin / Functions  
@@ -131,8 +134,10 @@ The Minimap you see in the picture above is the new MapGoblin Minimap and can ei
    
    
    
-   
-   
+ ## New in version v2.0  
+ ### Added Auto-Update feature. 
+ The new version 2.0 has an auto-update implemented. The app will check for availabe updates at each start, and will notify you if any are available.   
+ ![image](https://user-images.githubusercontent.com/52481026/140654019-d1ecc680-5b1b-4e37-8b81-86fbd0ead5ad.png)   
    
    
 ## New in version v1.5
