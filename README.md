@@ -1,22 +1,18 @@
 # LootGoblin v2.0 - featuring MapGoblin,LootGoblin Light and Auto-Update!
 ## Easiest way to locate Treasure Maps, Resource Maps, yourself (Mini-Map) and to buy or sell your Items on Discord or even your own vendor!   
-## [Click here to download LootGoblin.](https://github.com/Hanebu/Loot-Goblin/releases/download/v2.0/LootGoblin.exe)   
+## [Click here to download LootGoblin.](https://github.com/Hanebu/Loot-Goblin/releases/download/v2.1/LootGoblin.exe)   
 ## [Click here to download MapGoblin.](https://github.com/Hanebu/Loot-Goblin/releases/download/v2.0/MapGoblin.exe)   
 ### LootGoblin Regular  
-![image](https://user-images.githubusercontent.com/52481026/140172976-72f791c0-643a-4c01-a4f7-73c248580e97.png)  
+![image](https://user-images.githubusercontent.com/52481026/148082723-1a58b7f2-7fdd-4848-85ac-c0b337a23dba.png)
   
   
 ### LootGoblin Light  
-![image](https://user-images.githubusercontent.com/52481026/140173012-4d7e0b7d-15eb-4474-91ef-7a2f8406cfc6.png)  
+![image](https://user-images.githubusercontent.com/52481026/148082792-d2133ae6-694f-4e3a-bb25-a1adb016b1f6.png)
   
   
 ### MapGoblin  
 ![image](https://user-images.githubusercontent.com/52481026/140173359-31dbcbc0-99fa-47a7-8614-be51885a9ec8.png)
-  
-  
-### Auto-Update   
-![image](https://user-images.githubusercontent.com/52481026/140654019-d1ecc680-5b1b-4e37-8b81-86fbd0ead5ad.png)   
-     
+      
 
 
 ## How to use LootGoblin / Functions  
@@ -65,7 +61,7 @@ The app will also read the amount of each item you current have in stock from yo
 
 
 ## Buttons
-   ![image](https://user-images.githubusercontent.com/52481026/140176079-ba0822b6-a94f-4fae-b5bc-97ef31de8ad1.png)
+   ![image](https://user-images.githubusercontent.com/52481026/148084072-fc1bb662-92db-462c-a695-6e8bfc96d298.png)
    
 ### Scan:     
    Will scan the screen for the opened Tomes and Treasure Maps.  
@@ -82,7 +78,10 @@ The app will also read the amount of each item you current have in stock from yo
    
 ### Script:    
    Will create a script that automatically restock your vendor with Scrolls, Cores and Extracts and sets the price accordingly. After the script was created, the files will be opened automatically:   
-   ![image](https://user-images.githubusercontent.com/52481026/140176557-248b0294-26be-4717-b2eb-9b9946b5d11a.png)
+   ![image](https://user-images.githubusercontent.com/52481026/140176557-248b0294-26be-4717-b2eb-9b9946b5d11a.png)   
+   
+### Pvp Help:
+   Will create a pastable string with the exact cooridnates of your current map
 
    
 
@@ -132,14 +131,27 @@ The Minimap you see in the picture above is the new MapGoblin Minimap and can ei
    
    
    
+## New in version v2.1  
+### Added Auto-Scan, PvP-Help-Call feature and a completely new algorithm to locate maps!  
+The new version 2.1 features an Auto-Scan, as well as a PvP-Help-Call feature.  
+If you active the Auto-Scan, the app will constantly search for new maps and opened tome gumps.  
+The PvP-Help-Call feature is only working correctly if you have found a treasure map.  
+By pressing one of the buttons below, a string will be created in your clipboard which you can paste directly into your guildchat!
+![image](https://user-images.githubusercontent.com/52481026/148083356-4aca3a92-4d40-4a44-a975-84df99eb2213.png)
+![image](https://user-images.githubusercontent.com/52481026/148083568-ccb8c958-15e5-479c-aa1e-11e56aa69eaa.png)
+
+The resulting string looks like this:
+` Need PvP help | Regular: Zone 50 | Witcher: Rune 10 | BlackDragon: Rune 52 | POI: Western Ruins `  
+
+You can also deactivate rune systems that you are not using with those options:   
+![image](https://user-images.githubusercontent.com/52481026/148083821-281d2db4-cf19-461a-be82-3991ad862a78.png)   
+![image](https://user-images.githubusercontent.com/52481026/148083851-e18794f4-ffd1-44ed-978d-c6fddbf7b4c4.png)
+
    
-   
-   
-   
- ## New in version v2.0  
- ### Added Auto-Update feature. 
- The new version 2.0 has an auto-update implemented. The app will check for availabe updates at each start, and will notify you if any are available.   
- ![image](https://user-images.githubusercontent.com/52481026/140654019-d1ecc680-5b1b-4e37-8b81-86fbd0ead5ad.png)   
+## New in version v2.0  
+### Added Auto-Update feature. 
+The new version 2.0 has an auto-update implemented. The app will check for availabe updates at each start, and will notify you if any are available.   
+![image](https://user-images.githubusercontent.com/52481026/140654019-d1ecc680-5b1b-4e37-8b81-86fbd0ead5ad.png)   
    
    
 ## New in version v1.5
