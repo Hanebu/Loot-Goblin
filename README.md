@@ -1,4 +1,4 @@
-# LootGoblin v2.0 - featuring MapGoblin,LootGoblin Light and Auto-Update!
+# LootGoblin v2.1 - featuring MapGoblin,LootGoblin Light and Auto-Update!
 ## Easiest way to locate Treasure Maps, Resource Maps, yourself (Mini-Map) and to buy or sell your Items on Discord or even your own vendor!   
 ## [Click here to download LootGoblin.](https://github.com/Hanebu/Loot-Goblin/releases/download/v2.1/LootGoblin.exe)   
 ## [Click here to download MapGoblin.](https://github.com/Hanebu/Loot-Goblin/releases/download/v2.1/MapGoblin.exe)   
